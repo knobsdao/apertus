@@ -26,21 +26,23 @@ Also, this is not a space to point out the myriad of crypto and blockchain relat
 
 ## Pillars of the Community
 
-###### Education (General Public & Technical)
+**Education (General Public & Technical)**
 
 In 2019’s Global Talent Competitiveness Index, a report that evaluates the ability to enable, attract, grow, and retain talent, as well as form vocational, technical, and global knowledge skills, Latin, Central America and the Caribbean, is one of the three regions that don’t have countries ranking in the highest quartile of the index (i.e. top 30), being our top three countries, Chile (32nd), Costa Rica (34th) and Uruguay (46th). If we see it from the perspective of cities, Buenos Aires is the highest ranked at #77, falling from #35 last year.
 
 **Venezuela & LATAM:** There's a need to generate better understanding about blockchain and cryptocurrency potential amongst the general public. Expose them to practical blockchain use and success cases, and hands-on experiences, that could impact their everyday lives, as well as demystifying cryptocurrencies usage, from just a means of financial speculation to another tool to make value exchange easier. To foster new opportunities for technical profiles to be exposed and trained in these technologies. There is a strong need to strengthen LATAM’s talent pipeline, not only regarding blockchain technology, but on other exponential/frontier technologies, and to promote the offer of quality education in these areas. Facilitating cross-sector partnerships, both local and global.
 
-###### Research
+**Research**
 
 Our plan is to launch two research projects alongside local (or even global) think-tanks that study governance and economics as partners. Research topics proposed include: blockchain-powered governance projects and how they could impact Venezuela, an in-depth mapping and documentation of the local ecosystem, a report (tied to the Public Policy area below) on the potential impact of blockchain technology in post-Maduro Venezuela exploring implementations like stable coins, DAOs, asset traceability, identity, voting, etc. Other topics may be considered. 
 
-**Venezuela:** The goal of having a research unit upholds both providing ground for the use of blockchain in Venezuela and a knowledge base that may ease the soft-landing of global blockchain startups, initiatives and projects in the local ecosystem.
+###### Venezuela
+The goal of having a research unit upholds both providing ground for the use of blockchain in Venezuela and a knowledge base that may ease the soft-landing of global blockchain startups, initiatives and projects in the local ecosystem.
 
-**LATAM:** There’s a need to promote the development of academic papers, open data and analytics that may benefit the sector, case studies, investigative journalism, thesis, and other research works. As well as promote networking and collaboration across universities and research centers.
+###### LATAM
+There’s a need to promote the development of academic papers, open data and analytics that may benefit the sector, case studies, investigative journalism, thesis, and other research works. As well as promote networking and collaboration across universities and research centers.
 
-###### Public Policy
+**Public Policy**
 
 LATAM has historically been perceived as a region where corruption thrives. As of 2018, [Transparency International’s Corruption Perceptions Index](https://www.transparency.org/cpi2018) only had one country in the top 25 non-corrupt, Uruguay at 23rd, with Chile coming close in 27th place. And Venezuela at number [168/180](https://www.transparency.org/country/VEN), ranking as the most corrupt nation state of the Americas. Higher level regional scandals like Odebrecht’s still loom over the region.
 
@@ -48,7 +50,7 @@ LATAM has historically been perceived as a region where corruption thrives. As o
 
 **LATAM:** There’s a need to promote networking and collaboration amongst policymakers and legal professionals. Promote the use of blockchain across the public sector, public-private partnerships, and highlight private success cases. Promote civil participation in decision making use of these new means and leverage other technologies showcasing good practices.
 
-###### Ecosystem Development
+**Ecosystem Development**
 
 [Deloitte’s 2019 Global Blockchain Survey](https://www2.deloitte.com/us/en/insights/topics/understanding-blockchain-potential/global-blockchain-survey.html), explores the biggest barriers to blockchain adoption from a very corporate oriented report. The biggest being a tie between replacing or adapting legacy systems and regulatory issues (30%). The lack of in-house capabilities (skills and understanding) as one of the top barrier for adoption (28%) also comes up. Yet, the report highlights both the importance of consortiums and the top strategies to develop internal capabilities, being in-house courses, recruiting and online training.
 
