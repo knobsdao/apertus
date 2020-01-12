@@ -62,4 +62,4 @@ As previously mentioned, there’s a need to educate the general public, strengt
 
 **Sustainability**
 
-
+The different pillars offer and overview of the potential and need for education and training, organization of events and production of research, activities that may be adapted as products and services to ensure the sustainability and scalability of the community to the region. A first draft of an organizational model built for expansion can be found [here](https://docs.google.com/spreadsheets/d/19bEA18d2i58Wq5hiGf1TxWMaSwVzdQOymqRCCyQlNEM/edit#gid=0). Yet, the initial approach will be more traditional using a lean approach with set OKRs to test ideas while fine tuning the model during two quarters. We are also convinced that a DAO approach must be explored.
