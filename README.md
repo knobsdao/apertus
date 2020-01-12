@@ -37,9 +37,19 @@ Also, this is not a space to point out the myriad of crypto and blockchain relat
 
 ###### Research
 
+Our plan is to launch two research projects alongside local (or even global) think-tanks that study governance and economics as partners. Research topics proposed include: blockchain-powered governance projects and how they could impact Venezuela, an in-depth mapping and documentation of the local ecosystem, a report (tied to the Public Policy area below) on the potential impact of blockchain technology in post-Maduro Venezuela exploring implementations like stable coins, DAOs, asset traceability, identity, voting, etc. Other topics may be considered. 
+
+Venezuela: The goal of having a research unit upholds both providing ground for the use of blockchain in Venezuela and a knowledge base that may ease the soft-landing of global blockchain startups, initiatives and projects in the local ecosystem.
+
+LATAM: There’s a need to promote the development of academic papers, open data and analytics that may benefit the sector, case studies, investigative journalism, thesis, and other research works. As well as promote networking and collaboration across universities and research centers.
 
 ###### Public Policy
 
+LATAM has historically been perceived as a region where corruption thrives. As of 2018, [Transparency International’s Corruption Perceptions Index](https://www.transparency.org/cpi2018) only had one country in the top 25 non-corrupt, Uruguay at 23rd, with Chile coming close in 27th place. And Venezuela at number [168/180](https://www.transparency.org/country/VEN), ranking as the most corrupt nation state of the Americas. Higher level regional scandals like Odebrecht’s still loom over the region.
+
+Venezuela: Producing the previously mentioned report on the potential impact of blockchain technology in post-Maduro Venezuela is key to influence the development of legal frameworks that support the use of technologies such as blockchain, as well as exposing key desicion-makers (i.e. policy-makers, technical advisors, trade association leaders, influential scholars and economists, etc.) to the opportunities posed by the technology. Ways to influence these key people beyond the report will be defined after mapping them and the creation of an overton window analysis.
+
+LATAM: There’s a need to promote networking and collaboration amongst policymakers and legal professionals. Promote the use of blockchain across the public sector, public-private partnerships, and highlight private success cases. Promote civil participation in decision making use of these new means and leverage other technologies showcasing good practices.
 
 ###### Sustainability
 
