@@ -50,9 +50,9 @@ LATAM: There’s a need to promote networking and collaboration amongst policyma
 
 ###### Ecosystem Development
 
-PwC’s Global Blockchain Survey 2018, explores the biggest barriers to blockchain adoption. The biggest being regulatory uncertainty (27%). But the next two, lack of trust among users (25%), ability to bring network together (21%), have been championed by the creation of global consortiums that foster interoperability and raise the potential scalability of a network’s success by bringing key stakeholders together. One could argue that this is also beneficial for regulatory concerns.
+[Deloitte’s 2019 Global Blockchain Survey](https://www2.deloitte.com/us/en/insights/topics/understanding-blockchain-potential/global-blockchain-survey.html), explores the biggest barriers to blockchain adoption from a very corporate oriented report. The biggest being a tie between replacing or adapting legacy systems and regulatory issues (30%). The lack of in-house capabilities (skills and understanding) as one of the top barrier for adoption (28%) also comes up. Yet, the report highlights both the importance of consortiums and the top strategies to develop internal capabilities, being in-house courses, recruiting and online training.
 
-**Venezuela & LATAM:** As previously mentioned, there’s a need to Educate the general public, strengthen the talent pipeline, produce research and influence the legal framework to promote innovation. Nurture cross-sector collaboration, promoting the creation of consortiums, trade organizations, and cross-sector work groups. Create ongoing meeting spaces for the general public, innovators and industry specific players. Networking and partnerships must happen in collaboration with regional and global peers.
+**Venezuela & LATAM:** As previously mentioned, there’s a need to educate the general public, strengthen the talent pipeline, produce research and influence the legal framework to promote innovation and nurture cross-sector collaboration, promoting the creation of consortiums, trade organizations, and cross-sector work groups. Create ongoing meeting spaces for the general public, innovators and industry specific players. Networking and partnerships must happen in collaboration with regional and global peers.
 
 ###### Sustainability
 
