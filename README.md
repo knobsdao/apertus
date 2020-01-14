@@ -3,7 +3,7 @@ A rhizomatic, sustainable and scalable community around decentralization with a 
 
 Caracas is one the crypto capitals of the world. Its transaction numbers and trade volume influence the entire Western Hemisphere. Yet, complexity determines the health of a civilization, and the abundance of miners and traders is sadly faced with a lack of startups, innovators and developers using blockchain technology. We aim to change this by fostering a community around ETH.
 
-In a first stage, the community will operate from a co-working space and maintain a virtual presence. With a core team composed of a team lead, project manager, designer, social media manager, developer advocate and a partner research team. The core pillars of the community are: Education (general and technical), Research, Governance and Ecosystem Development, with a focus on Sustainability.
+In a first stage, the community will operate from a co-working space and maintain a virtual presence. With a core team composed of a team lead, project manager, designer, social media manager, developer advocate and a partner research team. The core pillars of the community are: Education (general and technical), Research, Decentralized Governance and Ecosystem Development, with a focus on Sustainability.
 
 Before going deeper, let's first look at...
 
@@ -36,11 +36,15 @@ The goal of having a research unit upholds both providing ground for the use of 
 
 There’s a need to promote the development of academic papers, open data and analytics that may benefit the sector, case studies, investigative journalism, thesis, and other research works. As well as promote collaboration across universities and research centers.
 
-**Governance**
+**Decentralized Governance**
 
 LATAM has historically been perceived as a region where corruption thrives. As of 2018, [Transparency International’s Corruption Perceptions Index](https://www.transparency.org/cpi2018) only had one country in the top 25 non-corrupt, Uruguay at 23rd, with Chile coming close in 27th place. And Venezuela at number [168/180](https://www.transparency.org/country/VEN), ranking as the most corrupt nation state of the Americas. Higher level regional scandals like Odebrecht’s still loom over the region.
 
-Producing the previously mentioned report on the potential impact of blockchain technology in post-Maduro Venezuela is key to influence the development of legal frameworks that support the use of technologies such as blockchain, as well as exposing key desicion-makers (i.e. policy-makers, technical advisors, trade association leaders, influential scholars and economists, etc.) to the opportunities posed by the technology. Ways to influence these key people beyond the report will be defined after mapping them and the creation of an overton window analysis.
+Producing the previously mentioned report on the potential impact of blockchain technology in post-Maduro Venezuela is key to influence the development of legal frameworks that support the use of technologies such as blockchain, as well as exposing key desicion-makers to the opportunities posed by the technology.
+
+A less traditional but even more interesting approach to the team, is providing a bridge between blockchain-powered governance innovations and the grassroots civic movement in Venezuela. Our team has previously engaged and collaborated with leading platforms and groups working on DAOs, UBI, identity, digital jurisdictions, liquid democracy and quadratic voting.
+
+On a personal note, our lead's passion project is the Synapsis.Network, a platform for a future of post-nations; fluid sovereign self-sustainable small hyper-connected collaborative communities.
 
 **Ecosystem Development**
 
