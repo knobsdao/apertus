@@ -1,7 +1,7 @@
 # apertus
 A rhizomatic, sustainable and scalable community around decentralization with a first node in Caracas, Venezuela. 
 
-Caracas is one the crypto capitals of the world. Its [transaction numbers](https://anacoinda.github.io/localbitcoins/all.html) and [trade volume](https://www.usefultulips.org/VES_Page.html) influence the entire Western Hemisphere. Yet, complexity determines the health of a civilization, and the abundance of miners and traders is sadly faced with a lack of startups, innovators and developers. We aim to change this by fostering a community around ETH.
+Caracas is one the crypto capitals of the world. Its [transaction numbers](https://anacoinda.github.io/localbitcoins/all.html) and [trade volume](https://www.usefultulips.org/VES_Page.html) influence the entire Western Hemisphere. Yet, complexity determines the health of a civilization, and the abundance of miners and traders is sadly faced with a lack of startups, innovators and developers using blockchain technology. We aim to change this by fostering a community around ETH.
 
 In a first stage, the community will operate from a co-working space and maintain a virtual presence. The core pillars of the community are: Education (general and technical), Research, Public Policy, Ecosystem Development and Sustainability.
 
