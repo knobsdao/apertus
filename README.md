@@ -3,11 +3,11 @@ A rhizomatic, sustainable and scalable community around decentralization with a 
 
 Caracas is one the crypto capitals of the world. Its [transaction numbers](https://anacoinda.github.io/localbitcoins/all.html) and [trade volume](https://www.usefultulips.org/VES_Page.html) influence the entire Western Hemisphere. Yet, complexity determines the health of a civilization, and the abundance of miners and traders is sadly faced with a lack of startups, innovators and developers using blockchain technology. We aim to change this by fostering a community around ETH.
 
-In a first stage, the community will operate from a co-working space and maintain a virtual presence. The core pillars of the community are: Education (general and technical), Research, Public Policy, Ecosystem Development and Sustainability.
+In a first stage, the community will operate from a co-working space and maintain a virtual presence. The core pillars of the community are: Education (general and technical), Research, Governance and Ecosystem Development, with a focus on Sustainability.
 
 Before going deeper, let's first look at...
 
-##  Data!
+##  Blockchain across LATAM
 
 ![](MapaBlockchainLatam.jpg)
 Source: Taken from a presentation on Blockchain in LATAM made at Blockchain Summit Latam on the 25th of October 2019. Link to slides here: https://latamtech.la/docs/Resumen_1_Mapa_Blockchain_Latam.pdf
@@ -34,9 +34,9 @@ Our plan is to launch two research projects alongside local (or even global) thi
 
 The goal of having a research unit upholds both providing ground for the use of blockchain in Venezuela and a knowledge base that may ease the soft-landing of global blockchain startups, initiatives and projects in the local ecosystem.
 
-There’s a need to promote the development of academic papers, open data and analytics that may benefit the sector, case studies, investigative journalism, thesis, and other research works. As well as promote networking and collaboration across universities and research centers.
+There’s a need to promote the development of academic papers, open data and analytics that may benefit the sector, case studies, investigative journalism, thesis, and other research works. As well as promote collaboration across universities and research centers.
 
-**Public Policy**
+**Governance**
 
 LATAM has historically been perceived as a region where corruption thrives. As of 2018, [Transparency International’s Corruption Perceptions Index](https://www.transparency.org/cpi2018) only had one country in the top 25 non-corrupt, Uruguay at 23rd, with Chile coming close in 27th place. And Venezuela at number [168/180](https://www.transparency.org/country/VEN), ranking as the most corrupt nation state of the Americas. Higher level regional scandals like Odebrecht’s still loom over the region.
 
@@ -46,9 +46,8 @@ Producing the previously mentioned report on the potential impact of blockchain 
 
 [Deloitte’s 2019 Global Blockchain Survey](https://www2.deloitte.com/us/en/insights/topics/understanding-blockchain-potential/global-blockchain-survey.html), explores the biggest barriers to blockchain adoption from a very corporate oriented report. The biggest being a tie between replacing or adapting legacy systems and regulatory issues (30%). The lack of in-house capabilities (skills and understanding) as one of the top barrier for adoption (28%) also comes up. Yet, the report highlights both the importance of consortiums and the top strategies to develop internal capabilities, being in-house courses, recruiting and online training.
 
-###### Venezuela
-As previously mentioned, there’s a need to educate the general public, strengthen the talent pipeline, produce research and influence the legal framework to promote innovation and nurture cross-sector collaboration, promoting the creation of consortiums, trade organizations, and cross-sector work groups. Create ongoing meeting spaces for the general public, innovators and industry specific players. Networking and partnerships must happen in collaboration with regional and global peers.
+As previously mentioned, there’s a need to educate the general public, strengthen the talent pipeline, produce research and influence the legal framework to promote innovation and nurture cross-sector collaboration, promoting the creation of working groups, consortiums and trade organizations. Create ongoing meeting spaces for the general public, innovators and industry specific players. And maintain open doors for regional and global partnerships.
 
-**Sustainability**
+## A Note on Sustainability and Scalability
 
-The different pillars offer and overview of the potential and need for education and training, organization of events and production of research, activities that may be adapted as products and services to ensure the sustainability and scalability of the community to the region. A first draft of an organizational model built for expansion can be found [here](https://docs.google.com/spreadsheets/d/19bEA18d2i58Wq5hiGf1TxWMaSwVzdQOymqRCCyQlNEM/edit#gid=0). Yet, the initial approach will be more traditional using a lean approach with set OKRs to test ideas while fine tuning the model during two quarters. We are also convinced that a DAO approach must be explored.
+The different pillars offer and overview of the potential and need for education, organization of events and production of research, activities that may be adapted as products and services to ensure the sustainability and scalability of the community to the region. A first draft of an organizational model built for regional replication can be found [here](https://docs.google.com/spreadsheets/d/19bEA18d2i58Wq5hiGf1TxWMaSwVzdQOymqRCCyQlNEM/edit#gid=0). Yet, the initial approach will be more traditional using a lean approach with set OKRs to test ideas while fine tuning the model during two quarters, leveraging assets like virtual gatherings and co-working space, and exploring a DAO model for future governance.
