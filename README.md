@@ -3,7 +3,7 @@ A rhizomatic, sustainable and scalable community around decentralization with a 
 
 Caracas is one the crypto capitals of the world. Its transaction numbers and trade volume influence the entire Western Hemisphere. Yet, complexity determines the health of a civilization, and the abundance of miners and traders is sadly faced with a lack of startups, innovators and developers using blockchain technology. We aim to change this by fostering a community around ETH.
 
-In a first stage, the community will operate from a co-working space and maintain a virtual presence. With a core team composed of a team lead, project manager, designer, social media manager, developer advocate and a partner research team. The core pillars of the community are: Education (general and technical), Research, Decentralized Governance and Ecosystem Development, with a focus on Sustainability.
+In a first stage, the core team will operate from a co-working space and engage the community in virtual and physical gatherings. The team is composed of a team lead, project manager, designer, social media manager, developer advocate and a partner research team. The core pillars of the community are: Education (general and technical), Research, Decentralized Governance and Ecosystem Development, with a focus on Sustainability.
 
 Before going deeper, let's first look at...
 
